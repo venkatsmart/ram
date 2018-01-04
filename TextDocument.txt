@@ -1,0 +1,25 @@
+<font color="red">This is some text!</font>
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<p><font color="red">This is some text!</font></p>
+<p><font color="blue">This is some text!</font></p>
+<p><font color="red">im am Awesome</font></p>
+<p>The color attribute is not supported in HTML5. Use CSS instead.</p>
+
+</body>
+</html>
+ Cascading Style Sheets - Cascading Style Sheets (CSS) 
+
+PHP stands for Hypertext Preprocessor
+
+
+
+Hire software developers with expertise in the specialized skill sets and technolog...
+Vision & Mission VISION Become a global leader in the digital space by transforming the landscape of business enterprises through continuous 
+innovation and collaboration. Click "Agree" to accept the use of cookies and continue browsing. Through digital innovation, 
+simplify and improve the quality of work life to create a better world for individuals,...
